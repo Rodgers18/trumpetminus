@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rodgers18.github.io/trumpetminus/sitemap.xml
